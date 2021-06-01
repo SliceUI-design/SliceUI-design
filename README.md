@@ -1,14 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am SliceUI!
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 
 ![GitHub followers](https://img.shields.io/github/followers/SliceUI-design?style=social)
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 
 
 <bio>
@@ -23,6 +22,14 @@ Looking forward to reaching and helping more people by sharing my Figma.
 
 
 ---
+
+
+
+
+
+
+
+
 <!--
 **SliceUI-design/SliceUI-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
