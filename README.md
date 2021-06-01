@@ -22,6 +22,7 @@ Looking forward to reaching and helping more people by sharing my Figma.
 
 
 
+---
 <!--
 **SliceUI-design/SliceUI-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
