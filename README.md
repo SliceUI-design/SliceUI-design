@@ -25,6 +25,10 @@ Looking forward to reaching and helping more people by sharing my Figma.
 
 🧰 Toolbox
 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/apple/apple-original.svg" alt="Apple Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/behance/behance-original.svg" alt="Apple Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/figma/figma-original.svg" alt="Apple Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sketch/sketch-original.svg" alt="Apple Logo" width="50" height="50"/> 
+
+
 ---
 
 
