@@ -34,6 +34,11 @@ Looking forward to reaching and helping more people by sharing my Figma.
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build a REST API With Node.js, HarperDB and FastifyJS](https://www.youtube.com/watch?v=UhNJPrkeMFM)
+- [Following my friends' programming tutorials [Stream]](https://www.youtube.com/watch?v=e2JlfszrQQM)
+- [Learn The Fundamentals Of Vue JS With Vue 3](https://www.youtube.com/watch?v=i2v4ysWUgMs)
+- [How To Delete All Local Git Branches In One Go](https://www.youtube.com/watch?v=Wq9ECGdNvVk)
+- [Learn How To Negotiate Your Salary As A Developer](https://www.youtube.com/watch?v=NH1Q6TglMzI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
@@ -43,13 +48,22 @@ Looking forward to reaching and helping more people by sharing my Figma.
 
 📘 Latest Blog Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Track Job Applications With Notion API, Node.js and FastifyJS](https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs)
+- [6 Resources To Learn Vue.js As A Beginner](https://catalins.tech/6-resources-to-learn-vuejs-as-a-beginner)
+- [Get Started With Vue CLI and UI](https://catalins.tech/get-started-with-vue-cli-and-ui)
+- [Attribute Binding In Vue JS](https://catalins.tech/attribute-binding-in-vue-js)
+- [Hashnode API - How To Display Your Blog Articles On Your Portfolio Page](https://catalins.tech/hashnode-api-how-to-display-your-blog-articles-on-your-portfolio-page)
 
 ▶ [...more blog articles](https://catalins.tech)
 
 ---
 
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catalinpit&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalinpit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
