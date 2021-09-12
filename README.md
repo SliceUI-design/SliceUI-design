@@ -34,7 +34,7 @@ Looking forward to reaching and helping more people by sharing my Figma.
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Self-taught developer with Computer Science degree?](https://www.youtube.com/watch?v=_G6Hblz6mHE)
+- [Self-taught developer with Computer Science degree](https://www.youtube.com/watch?v=_G6Hblz6mHE)
 - [Tech Unfiltered with @Francesco Ciulla  - Social Media, YouTube and Community](https://www.youtube.com/watch?v=KeJ7MlwwVK4)
 - [Break out of tutorial hell NOW](https://www.youtube.com/watch?v=blot-hR3ZWA)
 - [Is it too late to start learning how to CODE?](https://www.youtube.com/watch?v=DZT_VXrKcKg)
